@@ -6,6 +6,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
     Created on : 30 sept 2025, 10:50:42
     Author     : daniel
 */
+:root {
+    --a-color: #FFFF00;
+}
+
 
 .titulos {
     font-family: sans-serif;
@@ -33,4 +37,15 @@ article {
     width: 700px;
     
 }
+
+a:hover {
+    color: var(--a-color);
+    font-size: 2em;
+}
+
+main-interests {
+    padding-top: 100%;
+}
+
+
 
