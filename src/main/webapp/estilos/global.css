@@ -7,44 +7,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
     Author     : daniel
 */
 :root {
-    --a-color: #FFFF00;
-}
-
-
-.titulos {
-    font-family: sans-serif;
-}
-
-.subtitulos {
-    font-family: cursive;
-}
-
-footer {
-    background-color: lightgray;
-    height: 100px;
-    padding-top: 1px;
-}
-
-body {
-    background-image: url("https://i.pinimg.com/736x/b8/21/8f/b8218f2e133298f1ba3b960c1ebb605a.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-article {
-    background-color: white;
-    width: 700px;
-    
-}
-
-a:hover {
-    color: var(--a-color);
-    font-size: 2em;
-}
-
-main-interests {
-    padding-top: 100%;
+    --a-color: #FFFB00;
+    --bg-article-color: #FFFFFF;
 }
 
 
